@@ -4,6 +4,7 @@ Hi, I'm Thomas, welcome to my GitHub page :) I am a PhD student at the @dmirgrou
 
 ## Repositories
 * [Supplementary materials for "Learning Semantic Relatedness from Human Feedback using Metric Learning"](http://thomasniebler.github.io/semantics-metriclearning)
+* [Supplementary materials for "Learning Word Embeddings from Tagging Data: A methodological comparison"](https://thomasniebler.github.io/semantics-tagembeddings)
 * Other repositories are soon incoming
 
 ## Publications
