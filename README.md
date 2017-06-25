@@ -8,7 +8,7 @@ Hi, I'm Thomas, welcome to my GitHub page :) I am a PhD student at the @dmirgrou
 * Other repositories are soon incoming
 
 ## Publications
-My publications can be found over at [BibSononmy](https://www.bibsonomy.org/user/thoni/myown). I publish code on here for some of them.
+My publications can be found over at [BibSonomy](https://www.bibsonomy.org/user/thoni/myown). I publish code on here for some of them.
 
 ## Other stuff
 If you have any questions, drop me a message! Or follow me on [Twitter](https://twitter.com/ThomasNiebler)
