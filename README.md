@@ -5,12 +5,17 @@ Hi, I'm Thomas, welcome to my GitHub page :) I am a PhD student at the @dmirgrou
 ## Repositories
 * [Supplementary materials for "Learning Semantic Relatedness from Human Feedback using Metric Learning"](http://thomasniebler.github.io/semantics-metriclearning)
 * [Supplementary materials for "Learning Word Embeddings from Tagging Data: A methodological comparison"](https://thomasniebler.github.io/semantics-tagembeddings)
-* Other repositories are soon incoming
+* [Tools to construct co-occurrence based page vectors from navigational paths](https://thomasniebler.github.io/semantics-pathtools).<br />
+This repository contains the methodologies proposed in "Computing Semantic Relatedness from Human Navigation:
+A Case Study on Wikipedia" and “Extracting Semantic Relatedness from Unconstrained Navigation on Wikipedia”
+* [Strava Club Challenges](https://github.com/thomasniebler/strava-clubchallenges): I fiddled around with the API of Strava
+to create a small Django webapp where Strava members can pose challenges restricted to their clubs.
 
 ## Publications
-My publications can be found over at [BibSonomy](https://www.bibsonomy.org/user/thoni/myown). I publish code on here for some of them.
+My publications can be found over at [BibSonomy](https://www.bibsonomy.org/user/thoni/myown). For some of them, I published code on here.
 
 ## Other stuff
-If you have any questions, drop me a message! Or follow me on [Twitter](https://twitter.com/ThomasNiebler)
+If you have any questions, drop me a message! Or follow me on [Twitter](https://twitter.com/ThomasNiebler). Alternatively,
+read my [blog](https://www.thomas-niebler.de).
 
 
